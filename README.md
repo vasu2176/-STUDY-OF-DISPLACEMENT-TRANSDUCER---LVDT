@@ -1,4 +1,6 @@
 # -STUDY-OF-DISPLACEMENT-TRANSDUCER---LVDT
+### Name:Vasukannan R
+### Reg no:212224080060
 
 AIM
 To study the operation of LVDT- Linear Variable Differential Transformer
@@ -8,8 +10,7 @@ OBJECTIVE:
 3. Study of LVDT as transducer.
 
 Apparatus Required
-<img width="938" height="483" alt="image" src="https://github.com/user-attachments/assets/293efaae-494a-4955-835d-944222d6ebe5" />
-
+<img width="620" height="167" alt="image" src="https://github.com/user-attachments/assets/6fb40928-c719-4422-8968-c8c13cffcb7f" />
 
 Circuit Diagram:
 
@@ -29,11 +30,11 @@ voltages are noted down.
 8. A graph between displacement and output voltage is drawn.
 
 
-<img width="313" height="402" alt="image" src="https://github.com/user-attachments/assets/243a4e7d-ed24-4c1b-9539-be66f5eeb16b" />
+<img width="575" height="457" alt="image" src="https://github.com/user-attachments/assets/99a3dafe-99f5-4b37-ba07-2c82b84cb5bd" />
+output:
 
+<img width="1236" height="701" alt="492766976-655c87c9-2968-4551-a847-67d474e5f6c3" src="https://github.com/user-attachments/assets/e96fe0af-e37b-4422-b164-3512df2b44ae" />
 
-RESULT:
-LVDT characteristics are observed and studied.
-It is found that for a particular range, there is linear relationship between displacement and the output voltage of LVDT.
+RESULT:The operation of the LVDT transducer was successfully studied.
 
 
